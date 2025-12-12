@@ -1,6 +1,6 @@
 # Advent of Code
 
-This is where ny submissions will go for [Advent of Code](https://adventofcode.com)
+This is where my submissions will go for [Advent of Code](https://adventofcode.com)
 
 The following are rules I have given myself for theses challenges:
 
