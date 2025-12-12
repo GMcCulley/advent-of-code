@@ -1,6 +1,6 @@
 let input = require('fs').readFileSync('./input.txt', 'utf-8');
 
-// Parse input into array, removing last empty element
+// Parse input into array without line endings
 input = input.replaceAll('\r', '').split('\n');
 
 let zeroSum = 0;
